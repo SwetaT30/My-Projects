@@ -75,3 +75,28 @@ Also created few more additional columns such as **Attrition Count** for dashboa
 
 4. **Defining the KPIs and Advanced DAX Calculations**
 
+**KPIs** and **DAX Measures** are the core elements that drive the dashboard and display the data in a meaningful and actionable way. KPIs and DAX measures should be relevant, accurate and simple and should match the business requirement and the audience’s needs and expectations.   
+Created dynamic DAX Measures for KPIs such as **Attrition Rate**, **Average Age**, **Employee Count**, **Monthly Salary**, etc.
+
+5 . **Dashboard Design**
+
+A dashboard layout and visualizations are the visual elements that make up the dashboard and display the data attractively and understandably.  
+**Created KPIs using Cards** : Count of Employees, Attrition, Attrition Rate, Average Age, Average Salary, Average Years  
+**Created Slicers** : Department, Education Field, Age Groups, Salary Slab, Gender  
+**Created Visuals** :  
+Page 1  
+Attrition by Education - Donut Chart  
+Attrition by Age - Column Chart  
+Attrition by Salary - Bar Chart  
+Attrition by Years - Area Chart  
+Attrition by Job Role - Bar Chart  
+Table Showing Total Attrition Count by Job Role and Job Satisfaction  
+Attrition by Gender - Treemap  
+
+Page 2  
+Attrition by Total working Years - Area Chart  
+Attrition by Business Travel - Column Chart  
+Attrition by Department - Pie Chart  
+Attrition by Marital Status - Donut Chart  
+Attrition by Job Level - Bar Chart  
+Attrition by Performance Rating - Treemap  
