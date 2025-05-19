@@ -12,7 +12,7 @@ Create an interactive and user-friendly Dashboard for analyzing the key HR KPIs 
 
 ## Dataset
 
-The dataset contains 1470 rows and 35 columns, including : 
+**The dataset contains 1470 rows and 35 columns, including :**
 
 Age  
 Attrition  
@@ -52,8 +52,18 @@ Years With Curr Manager
 
 ## Technology Stack
 
-Data Sources : CSV, Excel, PDF  
-Tools : Excel, PowerBI, Power Query, DAX  
+**Data Sources :** CSV, Excel, PDF  
+**Tools :** Excel, PowerBI, Power Query, DAX  
 
 ## Steps and Workflow
+
+1. **Data Extraction**
+
+Imported the **IBM HR Analytics Employee Attrition & Performance** Dataset from Kaggle in **CSV** format. This HR Dataset contains information about 1470 employees, such as their age, gender, department, job role, salary, education, performance, satisfaction, attrition, etc.  
+Then, coverted it into an **Excel** format in order to perform the process of Data Cleaning and Preprocessing.  
+Next, updated the headers of all the columns. Then, applied filters on all the columns and checked for any outliers or anomalies in the data set and decided whether to keep them or remove them. Removed the duplicate or null values from the dataset. Also, Modified the text entries in some columns using Find and Replace Methods to make them easy to understand.
+Added two additional columns **Age Groups** and **Salary Slab** next to Columns **Age** and **Monthly Income** respectively for performing data analysis and visualization steps in power BI.
+
+2. **Data Integration**
+
 
