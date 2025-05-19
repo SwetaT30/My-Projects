@@ -7,3 +7,6 @@
 ![Page 2 Dashboard](https://github.com/user-attachments/assets/5ca96686-3848-450e-8ec4-2f2f0e1d62b9)
 
 ## Objective
+
+Create an interactive and user-friendly Dashboard for analyzing the key HR KPIs like Employee Count, Average Age of Employees, Gender Ratio, Average Salary, Various Job Roles, etc., contributing to attrition of the employees in IBM Company. This project provides in-depth analysis of the factors responsible for employee's attrition patterns in the company and help identify the factors that influence employee turnover and retention. It aims to streamline Data Analysis Process for the company by helping them gain insights into areas with high attrition rates to inform targeted retention strategies.
+
