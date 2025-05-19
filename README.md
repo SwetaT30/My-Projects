@@ -103,18 +103,14 @@ Attrition by Performance Rating - Treemap
 
 ## Key Insights
 
-The employee attrition rate is 16%, which is higher than the industry average of 12%. The main reasons for attrition are low salaries, high workload, and lack of career growth opportunities.
-The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, especially in HR, where only 33% are female. The education field is also dominated by Life Sciences & Medical, which accounts for more than 50% of the employees.
-The total employee count is 1233 with an average salary of $6,879 and a monthly total payroll of $8.5M.
-The majority of employees leaving the company are in the age group of 26-35 (97) and 36-45 (38).
-Sales Executives are the largest job role (269), followed by Research Scientists (245).
-The highest average salaries are drawn by Managers ($17,201) and Research Directors ($15,947).
-Gender ratio is skewed towards one gender at 68%.
-The total attrition count is 237 with an overall attrition rate of 16%.
-Attrition rates vary across departments, with Sales (21%), R&D (19%), and HR (14%) having the highest rates.
-Among job roles, Sales Representatives (40%), Laboratory Technicians (24%), and Human Resources Specialists (23%) have the highest attrition rates.
-Employees who travel frequently for business have a higher attrition rate (25%) compared to those who rarely travel (8%).
-Employees who are dissatisfied with their jobs have a higher attrition rate (23%) compared to those who are satisfied (11%).
-The average age of employees facing attrition is 34.
-Attrition rates vary significantly based on job satisfaction levels; employees with lower job satisfaction have higher attrition rates.
-Single employees face a higher rate of attrition compared to married or divorced employees.
+>> The total employee attrition count is 237 with an overall attrition rate of 16%. The main reasons for attrition are low salaries, job dissatisfaction and lack of career growth opportunities.
+>> The majority of employees leaving the company are in the age group of 26-35 (97) and 36-45 (38). The average age of employees facing attrition is 37.
+>> The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, where only 34% are females.
+>> The attrition rate in education field is dominated by Life Sciences & Medical, which accounts for more than 60% of the employees.
+>> Employees with the lowest salaries (upto 5k),; those who are earning lower than the average salary (6.5k) have higher attrition rates (54%).
+>> Employees having less work experience in years (1-2) tend to leave the company at a higher rate than those having more years of experience.
+>> Among Job Roles, Laboratory Technician are the ones with highest attrition counts (62), followed by Sales Executive (57) and Research Scientist (47).
+>> Employees who travel rarely for business have a higher attrition rate (65%) compared to those who travel frequently (29%).
+>> Attrition rates vary across departments, with R&D (56%) having the highest rates, followed by Sales (39%) and HR (5%).
+>> Single employees face a higher rate of attrition compared to married or divorced employees.
+>> Attrition rates vary significantly based on job satisfaction levels; employees with lower job satisfaction levels have higher attrition rates.
