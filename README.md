@@ -101,12 +101,12 @@ Attrition by Marital Status - Donut Chart
 Attrition by Job Level - Bar Chart  
 Attrition by Performance Rating - Treemap  
 
-# Key Insights
+## Key Insights
 
 The employee attrition rate is 16%, which is higher than the industry average of 12%. The main reasons for attrition are low salaries, high workload, and lack of career growth opportunities.
 The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, especially in HR, where only 33% are female. The education field is also dominated by Life Sciences & Medical, which accounts for more than 50% of the employees.
 The total employee count is 1233 with an average salary of $6,879 and a monthly total payroll of $8.5M.
-The majority of employees are in the age group of 26-35 (490) and 36-45 (425).
+The majority of employees leaving the company are in the age group of 26-35 (97) and 36-45 (38).
 Sales Executives are the largest job role (269), followed by Research Scientists (245).
 The highest average salaries are drawn by Managers ($17,201) and Research Directors ($15,947).
 Gender ratio is skewed towards one gender at 68%.
