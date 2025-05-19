@@ -6,3 +6,4 @@
 
 ![Page 2 Dashboard](https://github.com/user-attachments/assets/5ca96686-3848-450e-8ec4-2f2f0e1d62b9)
 
+## Objective
