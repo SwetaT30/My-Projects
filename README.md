@@ -20,40 +20,40 @@ Business Travel
 Daily Rate  
 Department  
 Distance From Home  
-Education
-Education Field
-Employee Count
-Employee Number
-Environment Satisfaction
-Gender
-Hourly Rate
-Job Involvement
-Job Level
-Job Role
-Job Satisfaction
-Marital Status
-Monthly Income
-Monthly Rate
-Num Companies Worked
-Over 18
-Over Time
-Percent Salary Hike
-Performance Rating
-Relationship Satisfaction
-Standard Hours
-Stock Option Level
-Total Working Years
-Training Times Last Year
-Work Life Balance
-Years At Company
-Years In Current Role
-Years Since Last Promotion
-Years With Curr Manager
+Education  
+Education Field  
+Employee Count  
+Employee Number  
+Environment Satisfaction  
+Gender  
+Hourly Rate  
+Job Involvement  
+Job Level  
+Job Role  
+Job Satisfaction  
+Marital Status  
+Monthly Income  
+Monthly Rate  
+Num Companies Worked  
+Over 18  
+Over Time  
+Percent Salary Hike  
+Performance Rating  
+Relationship Satisfaction  
+Standard Hours  
+Stock Option Level  
+Total Working Years  
+Training Times Last Year  
+Work Life Balance  
+Years At Company  
+Years In Current Role  
+Years Since Last Promotion  
+Years With Curr Manager  
 
 ## Technology Stack
 
-Data Sources : CSV, Excel, PDF
-Tools : Excel, PowerBI, Power Query, DAX
+Data Sources : CSV, Excel, PDF  
+Tools : Excel, PowerBI, Power Query, DAX  
 
 ## Steps and Workflow
 
