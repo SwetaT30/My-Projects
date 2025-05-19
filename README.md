@@ -66,4 +66,12 @@ Added two additional columns **Age Groups** and **Salary Slab** next to Columns 
 
 2. **Data Integration**
 
+Imported the dataset from my system into **Power BI** in Excel format.
+
+3. **Data Transformation**
+
+After importing the dataset, used the Power Query Editor to perform any further data cleaning, transformation or validation that was needed for report building such as checked the datatypes of each of the columns and updated them as per the column values.  
+Also created few more additional columns such as **Attrition Count** for dashboard creation. Finally, clicked on **Close and Apply** button in Power Query Editor and my dataset was ready for Dashboard Preparation.
+
+4. **Defining the KPIs and Advanced DAX Calculations**
 
