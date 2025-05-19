@@ -14,12 +14,12 @@ Create an interactive and user-friendly Dashboard for analyzing the key HR KPIs 
 
 The dataset contains 1470 rows and 35 columns, including : 
 
-Age
-Attrition
-Business Travel
-Daily Rate
-Department
-Distance From Home
+Age  
+Attrition  
+Business Travel  
+Daily Rate  
+Department  
+Distance From Home  
 Education
 Education Field
 Employee Count
