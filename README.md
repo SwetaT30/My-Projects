@@ -100,3 +100,6 @@ Attrition by Department - Pie Chart
 Attrition by Marital Status - Donut Chart  
 Attrition by Job Level - Bar Chart  
 Attrition by Performance Rating - Treemap  
+
+# Key Insights
+
