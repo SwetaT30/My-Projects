@@ -48,7 +48,7 @@ Work Life Balance
 Years At Company  
 Years In Current Role  
 Years Since Last Promotion  
-Years With Curr Manager  
+Years With Current Manager  
 
 ## Technology Stack
 
@@ -93,6 +93,7 @@ Attrition by Job Role - Bar Chart
 Table Showing Total Attrition Count by Job Role and Job Satisfaction  
 Attrition by Gender - Treemap  
 
+
 Page 2  
 Attrition by Total working Years - Area Chart  
 Attrition by Business Travel - Column Chart  
@@ -107,7 +108,7 @@ Attrition by Performance Rating - Treemap
 >> The majority of employees leaving the company are in the age group of 26-35 (97) and 36-45 (38). The average age of employees facing attrition is 37.  
 >> The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, where only 34% are females.  
 >> The attrition rate in education field is dominated by Life Sciences & Medical, which accounts for more than 60% of the employees.  
->> Employees with the lowest salaries (upto 5k),; those who are earning lower than the average salary (6.5k) have higher attrition rates (54%).  
+>> Employees with the lowest salaries (upto 5k), i.e., those who are earning lower than the average salary (6.5k) have higher attrition rates (54%).  
 >> Employees having less work experience in years (1-2) tend to leave the company at a higher rate than those having more years of experience.  
 >> Among Job Roles, Laboratory Technician are the ones with highest attrition counts (62), followed by Sales Executive (57) and Research Scientist (47).  
 >> Employees who travel rarely for business have a higher attrition rate (65%) compared to those who travel frequently (29%).  
