@@ -6,6 +6,9 @@
 
 ![Page 2 Dashboard](https://github.com/user-attachments/assets/5ca96686-3848-450e-8ec4-2f2f0e1d62b9)
 
+## Problem Statement
+Human Resources are critical resources of any organization. Organizations spend huge amount of time and money to hire and nurture their employees. It is a huge loss for companies if employees leave, especially the key resources. Reasons for attrition can be plenty and range from dissatisfaction due to low salaries, less or no career growth opportunities, inferior employee supervision, eagerness to get into companies with global presence, lack of recognition, lack of freedom of expression in the organization and underutilization of talents and skills of the individuals. Thus in a situation when more and more employees are quitting the organization, the attrition rate is on a rise. So if HR can predict weather employees are at risk for leaving the company, it will allow them to identify the attrition risks and help understand and provide necessary support to retain those employees or do preventive hiring to minimize the impact to the organization.
+
 ## Objective
 
 Create an interactive and user-friendly Dashboard for analyzing the key HR KPIs like Employee Count, Average Age of Employees, Gender Ratio, Average Salary, Various Job Roles, etc., contributing to attrition of the employees in IBM Company. This project provides in-depth analysis of the factors responsible for employee's attrition patterns in the company and help identify the factors that influence employee turnover and retention. It aims to streamline Data Analysis Process for the company by helping them gain insights into areas with high attrition rates to inform targeted retention strategies.
