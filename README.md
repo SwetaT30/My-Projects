@@ -11,7 +11,7 @@ Human Resources are critical resources of any organization. Organizations spend 
 
 ## Objective
 
-Create an interactive and user-friendly Dashboard for analyzing the key HR KPIs like Employee Count, Average Age of Employees, Gender Ratio, Average Salary, Various Job Roles, etc., contributing to attrition of the employees in IBM Company. This project provides in-depth analysis of the factors responsible for employee's attrition patterns in the company and help identify the factors that influence employee turnover and retention. It aims to streamline Data Analysis Process for the company by helping them gain insights into areas with high attrition rates to inform targeted retention strategies.
+The objective of the present report is to study the factors like salary, satisfactory level, growth opportunities, facilities, recognition, etc., by which it helps to know the attrition level in the organization and factors relating to retain them and hence create an interactive and user-friendly Dashboard for analyzing the key HR KPIs like Employee Count, Average Age of Employees, Gender Ratio, Average Salary, Various Job Roles, etc., contributing to attrition of the employees in IBM Company. This project provides in-depth analysis of the factors responsible for employee's attrition patterns in the company and help identify the factors that influence employee turnover and retention. It aims to streamline Data Analysis Process for the company by helping them gain insights into areas with high attrition rates to inform targeted retention strategies.
 
 ## Dataset
 
