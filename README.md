@@ -122,12 +122,8 @@ Attrition by Performance Rating - Treemap
 ## Suggested Action
 
 * Improving the work conditions
+    * Provide an option for the employee’s to work from home, on a flexible schedule, or in an office with an ergonomic workspace, they will be more satisfied with their work and more likely to achieve a healthy work-life balance.  
 * Offer modest salaries and perks
+    * To maintain the critical employee’s company need’s to offer equitable and modest salaries. You can also give added perks like flexible schedules, travel discounts etc.  
 * Employee Engagement
-
-* Improving the work conditions
-Provide an option for the employee’s to work from home, on a flexible schedule, or in an office with an ergonomic workspace, they will be more satisfied with their work and more likely to achieve a healthy work-life balance.  
-* Offer modest salaries and perks
-To maintain the critical employee’s company need’s to offer equitable and modest salaries. You can also give added perks like flexible schedules, travel discounts etc.  
-* Employee Engagement
-When you have talented employee’s we need to find ways that you can help expand the employee’s skill set, so that their involvement in the job increases. If their involvement is low, they will get bored and think that they are not growing within the organization.
+    * When you have talented employee’s we need to find ways that you can help expand the employee’s skill set, so that their involvement in the job increases. If their involvement is low, they will get bored and think that they are not growing within the organization.  
